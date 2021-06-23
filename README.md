@@ -26,7 +26,7 @@ The following **additional** features are implemented: N/A
 
 GIF created with [Kap](https://getkap.co/).
 
-<img src='Walkthrough.gif'' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+ ![ Alt text](Walkthrough. gif) / ! [](Walkthrough. gif)
 
 ## Notes
 
