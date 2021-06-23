@@ -30,7 +30,8 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+*importing correct package to read.write data to file
 
 ## License
 
