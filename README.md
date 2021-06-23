@@ -26,7 +26,7 @@ The following **additional** features are implemented: N/A
 
 GIF created with [Kap](https://getkap.co/).
 
- ![ Alt text](Walkthrough. gif) / ! [](Walkthrough. gif)
+![Alt Text](Walkthrough.gif)
 
 ## Notes
 
